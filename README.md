@@ -1,2 +1,2 @@
 # ML-Algos
-Some of the ML algorithms
+Some of the Basic Implemented ML algorithms
